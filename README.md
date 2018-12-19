@@ -1,6 +1,7 @@
 # Weather App
  Get the Forecast of a given location you searched for , within 7 days or the past 30 days using DarkSky :
- - HTM5 , Bootstaps for the FrontEnd
+ - HTM5 , Bootstaps , Javascript for the FrontEnd
+ 
  
  
   ## Online Demo 
